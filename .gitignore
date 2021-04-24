@@ -1,3 +1,6 @@
 #Owner class in netbeans project
 
 build/classes/ankitpandey/
+
+*.xml
+*.mf
