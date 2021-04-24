@@ -11,7 +11,7 @@ A Java Netbeans project to track records of students
 - There are few things you need to alter before actually using the project:- <br>
 I'll add them tomorrow as I'm sleepy right now... 😴🛌.
 ## Known Issue
-[]: # "Adding the whole project with all the dependencies in the repo."
+[]: # (Adding the whole project with all the dependencies in the repo. ✅)
 - If you have any issue regarding the script or functionality of project, create an issue and feel free to ask anything.
 - I'm happy to answer all your question 😊. 
 
