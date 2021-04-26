@@ -12,6 +12,7 @@ A Java Netbeans project to track records of students
   - Create a table(Student_Details) where you want to store the record of students and add fields according to the layout of ShowDetails.form.
   - Create another table(users) for the admins of system with Name and Password as field name.
   - Open source page of Login and Show details form and update `Connection con` to the root folder of MySQL.
+  - Copy owner class and form from any existing project you have in IDE and paste the class folder in `build/classes` and form in `src`.
   - Now you are good to go, in case you face any problem thn feel free to open an issue.
  
 ## Known Issue
