@@ -1,5 +1,5 @@
 # Student-Management-System
-A Java Netbeans project to track records of students
+A Java Netbeans project to track records of students and their marksheet.
 
 ## Requirement
 - Java IDE (Netbeans preferably) to run the project.
